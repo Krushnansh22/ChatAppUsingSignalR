@@ -1,0 +1,6 @@
+@ChatAppWithSignalR.Api_HostAddress = http://0.0.0.0:5068
+
+GET {{ChatAppWithSignalR.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChatAppWithSignalR.Api.props" />
+</Project>

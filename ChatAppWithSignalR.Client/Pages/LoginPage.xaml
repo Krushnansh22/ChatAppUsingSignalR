@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="ChatAppWithSignalR.Client.Pages.LoginPage"
+             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModel="clr-namespace:ChatAppWithSignalR.Client.ViewModels"
+             Title="Login"
+             BackgroundColor="#13232f">
+    <Grid>
+        <!-- Main content in a ScrollView for responsiveness -->
+        <ScrollView>
+            <VerticalStackLayout Margin="30" Spacing="20">
+                <!-- Header -->
+                <Label Text="ChatApp" 
+               FontSize="45" 
+               HorizontalOptions="Center" 
+               TextColor="White" />
+                <Label Text="With SignalR" 
+               FontSize="20" 
+               HorizontalOptions="Center"
+               TextColor="White" />
+
+                <!-- Username Field -->
+                <Frame BorderColor="Transparent" HasShadow="False">
+                    <Entry Placeholder="User name" 
+                 Text="{Binding UserName}" 
+                 ReturnType="Next" 
+                 TextColor="Black" 
+                 BackgroundColor="White"/>
+                </Frame>
+
+                <!-- Password Field -->
+                <Frame BorderColor="Transparent" HasShadow="False">
+                    <Entry Placeholder="Password" 
+                 Text="{Binding Password}" 
+                 IsPassword="True" 
+                 ReturnType="Done" 
+                 TextColor="Black" 
+                 BackgroundColor="White"/>
+                </Frame>
+
+                <!-- Forgot Password -->
+                <Label Text="Forgot password?" 
+               HorizontalOptions="End" 
+               TextColor="#1e90ff"/>
+
+                <!-- Login Button -->
+                <Button Text="Login" 
+                Command="{Binding LoginCommand}" 
+                BackgroundColor="#f0932b" 
+                TextColor="White"/>
+
+                <!-- Social Logins -->
+                <HorizontalStackLayout HorizontalOptions="Center" Spacing="10">
+                    <BoxView BackgroundColor="Gray" 
+                   HeightRequest="1" 
+                   WidthRequest="60" 
+                   VerticalOptions="Center"/>
+                    <Label Text="Or continue with" 
+                 VerticalOptions="Center" 
+                 TextColor="White"/>
+                    <BoxView BackgroundColor="Gray" 
+                   HeightRequest="1" 
+                   WidthRequest="60" 
+                   VerticalOptions="Center"/>
+                </HorizontalStackLayout>
+
+                <HorizontalStackLayout HorizontalOptions="Center" Spacing="20">
+                    <Frame Padding="15">
+                        <Image Source="google_logo.png" 
+                   HeightRequest="32" 
+                   WidthRequest="32"/>
+                    </Frame>
+                    <Frame Padding="15">
+                        <Image Source="apple_logo.png" 
+                   HeightRequest="32" 
+                   WidthRequest="32"/>
+                    </Frame>
+                </HorizontalStackLayout>
+
+                <!-- Registration Prompt -->
+                <HorizontalStackLayout HorizontalOptions="Center" Spacing="5">
+                    <Label Text="Not a member?" 
+                 TextColor="White"/>
+                    <Label Text="Register now" 
+                 TextColor="#1e90ff"/>
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- Overlay Activity Indicator -->
+        <ActivityIndicator IsRunning="{Binding IsProcessing}" 
+                       IsVisible="{Binding IsProcessing}"
+                       HorizontalOptions="Center" 
+                       VerticalOptions="Center" 
+                       Color="White"/>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\pages\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:pages\\loginpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\helpers\\devhttpsconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:helpers\\devhttpsconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\viewmodels\\chatpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:viewmodels\\chatpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\helpers\\iconfonthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:helpers\\iconfonthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\authenticate\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\authenticate\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\authenticate\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\authenticate\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\chathub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\chathub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\pages\\listchatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:pages\\listchatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\pages\\listchatpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:pages\\listchatpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\pages\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:pages\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\chatappwithsignalr.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:chatappwithsignalr.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\converters\\fromuseridtohorizontaloptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:converters\\fromuseridtohorizontaloptionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\converters\\fromuseridtobackgroudcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:converters\\fromuseridtobackgroudcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\models\\lastestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:models\\lastestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\services\\listchat\\listchatinitializeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:services\\listchat\\listchatinitializeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|d:\\maui_projects\\fatipadihai\\chatappwithsignalr.client\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FE198F-CA15-4EBA-A54B-DF78A41EFA08}|ChatAppWithSignalR.Client.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevHttpsConnectionHelper.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Helpers\\DevHttpsConnectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DevHttpsConnectionHelper.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Helpers\\DevHttpsConnectionHelper.cs",
+              "RelativeToolTip": "Helpers\\DevHttpsConnectionHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:58.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceProvider.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ServiceProvider.cs",
+              "RelativeToolTip": "Services\\ServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:30:03.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:52:44.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatPageViewModel.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ViewModels\\ChatPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChatPageViewModel.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ViewModels\\ChatPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChatPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Services\\BaseResponse.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\BaseResponse.cs",
+              "RelativeToolTip": "Services\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:33.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IconFontHelper.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Helpers\\IconFontHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\IconFontHelper.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Helpers\\IconFontHelper.cs",
+              "RelativeToolTip": "Helpers\\IconFontHelper.cs",
+              "ViewState": "AgIAAKMGAAAAAAAAAAAcwN4DAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:31:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\Authenticate\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Authenticate\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\Authenticate\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Services\\Authenticate\\AuthenticateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\Authenticate\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "Services\\Authenticate\\AuthenticateRequest.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\Authenticate\\AuthenticateRequest.cs",
+              "RelativeToolTip": "Services\\Authenticate\\AuthenticateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ChatHub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Services\\ChatHub\\ChatHub.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ChatHub\\ChatHub.cs",
+              "RelativeToolTip": "Services\\ChatHub\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListChatPage.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ListChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListChatPage.xaml.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ListChatPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ListChatPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:08:41.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListChatPage.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ListChatPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListChatPage.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ListChatPage.xaml",
+              "RelativeToolTip": "Pages\\ListChatPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:30:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-15T09:50:11.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ChatPage.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Pages\\ChatPage.xaml",
+              "RelativeToolTip": "Pages\\ChatPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:30:00.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:29:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:28:47.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:28:08.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:28:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-12T10:28:42.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChatAppWithSignalR.Client.csproj",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ChatAppWithSignalR.Client.csproj",
+              "RelativeDocumentMoniker": "ChatAppWithSignalR.Client.csproj",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\ChatAppWithSignalR.Client.csproj",
+              "RelativeToolTip": "ChatAppWithSignalR.Client.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T10:28:31.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:29:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:29:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FromUserIdToHorizontalOptionConverter.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Converters\\FromUserIdToHorizontalOptionConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\FromUserIdToHorizontalOptionConverter.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Converters\\FromUserIdToHorizontalOptionConverter.cs",
+              "RelativeToolTip": "Converters\\FromUserIdToHorizontalOptionConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:31:30.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FromUserIdToBackgroudColorConverter.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Converters\\FromUserIdToBackgroudColorConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\FromUserIdToBackgroudColorConverter.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Converters\\FromUserIdToBackgroudColorConverter.cs",
+              "RelativeToolTip": "Converters\\FromUserIdToBackgroudColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:31:28.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LastestMessage.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\LastestMessage.cs",
+              "RelativeDocumentMoniker": "Models\\LastestMessage.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Models\\LastestMessage.cs",
+              "RelativeToolTip": "Models\\LastestMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:51.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListChatInitializeResponse.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ListChat\\ListChatInitializeResponse.cs",
+              "RelativeDocumentMoniker": "Services\\ListChat\\ListChatInitializeResponse.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\Services\\ListChat\\ListChatInitializeResponse.cs",
+              "RelativeToolTip": "Services\\ListChat\\ListChatInitializeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:30:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\MAUI_Projects\\FatiPadiHai\\ChatAppWithSignalR.Client\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:29:43.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
